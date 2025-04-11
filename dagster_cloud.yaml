@@ -1,0 +1,4 @@
+locations:
+  - location_name: api_to_s3
+    code_source:
+      package_name: api_to_s3
